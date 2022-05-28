@@ -1,8 +1,12 @@
 {
   "item.mccourse.cobalt_ingot": "Cobalt Ingot",
   "item.mccourse.cobalt_nugget": "Cobalt Nugget",
+  "item.mccourse.raw_cobalt": "Raw Cobalt",
 
   "block.mccourse.cobalt_block": "Cobalt Block",
-  "block.mccourse.cobalt_ore": "Cobalt ore"
+  "block.mccourse.cobalt_ore": "Cobalt ore",
+  "block.mccourse.deepslate_cobalt_ore": "Deepslate Cobalt ore",
+  "block.mccourse.raw_cobalt_block": "Raw Cobalt Block",
 
+  "itemGroup.coursemodtab": "MCCourse Mod"
 }
